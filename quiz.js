@@ -45,12 +45,12 @@ var Questions =
         ques: "What is a <p> element?",
         A: "a paragraph",
         B: "a text header",
-        C: "a list",
+        C: "a list item",
         D: "a link"
     },
     {
         ques: "What is a <li> element?",
-        A: "a list",
+        A: "a list item",
         B: "a text header",
         C: "a link",
         D: "a paragraph"
@@ -58,7 +58,7 @@ var Questions =
     {
         ques: "What is a <h1> element?",
         A: "a text header",
-        B: "a list",
+        B: "a list item",
         C: "a paragraph",
         D: "a link"
     },
@@ -66,7 +66,7 @@ var Questions =
         ques: "What is a <a> element?",
         A: "a link",
         B: "a text header",
-        C: "a list",
+        C: "a list item",
         D: "a paragraph"
     }
 ];
